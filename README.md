@@ -17,7 +17,7 @@ DONE:
   - ERC721 Setup
   - Create auction (and move NFT into escrow)
   - Place bid (and move bid amount into escrow)
-  - 60 hand-written test cases in truffle
+  - over 60 hand-written test cases in truffle
 
 TODO:
   - Finalize auction
