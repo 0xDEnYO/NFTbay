@@ -6,5 +6,10 @@ On this social marketplace, you can sell/auction any ERC721 token. The selling c
 I started this project to deepen my knowledge about Solidity, smart contract development, deployment and testing (with Truffle/Mocha/Chai). I know there are out-of-the-box solutions available in the internet that I could have leveraged but I wanted to come up with my own approach to increase my learning curve.
 After all, this exercise is just preparation to get into a paid position as blockchain developer. 
 
-SO PLEASE CONSIDER HIRING ME. I AM CURRENTLY LOOKING FOR ANY KIND OF PRACTICAL CODING EXPERIENCE IN THE BLOCKCHAIN INDUSTRY.
+SO PLEASE CONSIDER HIRING ME :)
+
+I am currently looking for any kind of practical coding experience in the blockchain sector, preferably in a team with at least one senior blockchain dev.
+
+
+>> d.blaecker@gmail.com
 
