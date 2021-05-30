@@ -8,27 +8,3 @@ After all, this exercise is just preparation to get into a paid position as bloc
 
 SO PLEASE CONSIDER HIRING ME. I AM CURRENTLY LOOKING FOR ANY KIND OF PRACTICAL CODING EXPERIENCE IN THE BLOCKCHAIN INDUSTRY.
 
-
-Current Status of this project:
-
-DONE:
-  - Base Auction Data Model
-  - ERC20 setup
-  - ERC721 Setup
-  - Create auction (and move NFT into escrow)
-  - Place bid (and move bid amount into escrow)
-  - over 60 hand-written test cases in truffle
-
-TODO:
-  - Finalize auction
-  - Settlement
-  - Refund of bid amount after outbid
-  - ERC223 Setup / test
-  - more testing
-
-  General improvements:
-  - reduce contract complexity
-  - reduce contract size / gas consumption
-  - improve contract architecture (use libraries? which contract inherits from another, etc.)
-  - complete natspec comments
-  - Frontend
